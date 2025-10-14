@@ -56,3 +56,8 @@ The dataset includes information for 1000 individuals and features such as:
 * Scikit-learn
 * Seaborn, Matplotlib
 
+## How to Use This Project
+
+1.  Ensure you have all the required libraries installed (`pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`).
+2.  Place the `clientes_restaurantes.csv` file in the same directory as the notebook.
+3.  Open the `Stasmodel.ipynb` notebook and run the cells sequentially to reproduce the analysis, model training, and forecasting.
